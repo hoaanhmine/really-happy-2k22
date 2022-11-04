@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="suicide.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Suicide Down0000" x="0" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0001" x="0" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0002" x="739" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0003" x="739" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0004" x="1478" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0005" x="1478" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0006" x="2217" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Down0007" x="2956" y="0" width="739" height="732"/>
+	<SubTexture name="Suicide Idle 20000" x="3695" y="0" width="797" height="794"/>
+	<SubTexture name="Suicide Idle 20001" x="4492" y="0" width="797" height="794"/>
+	<SubTexture name="Suicide Idle 20002" x="5289" y="0" width="797" height="794"/>
+	<SubTexture name="Suicide Idle 20003" x="6086" y="0" width="797" height="794"/>
+	<SubTexture name="Suicide Left0000" x="6883" y="0" width="798" height="853"/>
+	<SubTexture name="Suicide Left0001" x="6883" y="0" width="798" height="853"/>
+	<SubTexture name="Suicide Left0002" x="0" y="853" width="798" height="853"/>
+	<SubTexture name="Suicide Left0003" x="0" y="853" width="798" height="853"/>
+	<SubTexture name="Suicide Left0004" x="798" y="853" width="798" height="853"/>
+	<SubTexture name="Suicide Left0005" x="798" y="853" width="798" height="853"/>
+	<SubTexture name="Suicide Left0006" x="1596" y="853" width="798" height="853"/>
+	<SubTexture name="Suicide Left0007" x="2394" y="853" width="798" height="853"/>
+	<SubTexture name="Suicide Rigth0000" x="3192" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0001" x="3192" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0002" x="4123" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0003" x="4123" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0004" x="5054" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0005" x="5054" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0006" x="5985" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Rigth0007" x="6916" y="853" width="931" height="843"/>
+	<SubTexture name="Suicide Up0000" x="0" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0001" x="0" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0002" x="849" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0003" x="849" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0004" x="1698" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0005" x="1698" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0006" x="2547" y="1706" width="849" height="881"/>
+	<SubTexture name="Suicide Up0007" x="3396" y="1706" width="849" height="881"/>
+</TextureAtlas>
